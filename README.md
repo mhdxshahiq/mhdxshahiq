@@ -109,11 +109,6 @@ I focus on building **autonomous AI systems** that can reason, plan, and use too
 ![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green)
 ![Pinecone](https://img.shields.io/badge/Pinecone-VectorDB-purple)
 
----
-
-## 📊 GitHub Stats
-
-![Shahiq's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhdxshahiq&show_icons=true&theme=radical)
 
 ---
 
